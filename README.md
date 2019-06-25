@@ -16,9 +16,9 @@ If you’re using Python 2.7, install Pygame using the package manager. Open a t
 
 Test your installation in a terminal session by entering the following:
 
-`$ python`
-`>>> import pygame`
-`>>>`
+```$ python
+>>> import pygame
+>>>```
 
 If no output appears, Python has imported Pygame and you’re ready to move on to “Starting the Game Project” on page 240.
 
@@ -43,7 +43,7 @@ The output will pause for a moment after informing you which libraries Pygame fo
 
 To confirm the installation, run a Python terminal session and try to import Pygame by entering the following:
 
-`$ python3`
-`>>> import pygame`
-`>>>`
+```$ python3
+>>> import pygame
+>>>```
 
