@@ -28,13 +28,13 @@ If you’re running Python 3, two steps are required: installing the libraries P
 
 Enter the following to install the libraries Pygame needs. (If you use a command such as python3.5 on your system, replace python3-dev with python3.5-dev.)
 
-`$ sudo apt-get install python3-dev mercurial`
+`$ sudo apt-get install python3-dev mercurial`<br/>
 `$ sudo apt-get install libsdl-image1.2-dev libsdl2-dev libsdl-ttf2.0-dev`
 
 This will install the libraries needed to run Alien Invasion successfully. If you want to enable some more advanced functionality in Pygame, such as the ability to add sounds, you can also add the following libraries:
 
-`$ sudo apt-get install libsdl-mixer1.2-dev libportmidi-dev`
-`$ sudo apt-get install libswscale-dev libsmpeg-dev libavformat-dev libavcodec-dev`
+`$ sudo apt-get install libsdl-mixer1.2-dev libportmidi-dev`<br/>
+`$ sudo apt-get install libswscale-dev libsmpeg-dev libavformat-dev libavcodec-dev`<br/>
 `$ sudo apt-get install python-numpy`
 
 Now install Pygame by entering the following (use pip3 if that’s appropriate for your system):
